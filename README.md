@@ -6,10 +6,17 @@
 <td valign="top" width="60%">
 
 ### 🌟 About Me
-- 🎸 Rock & Metal enthusiast (Pantera, Slipknot, Metallica, Megadeth)  
-- 🌱 Currently learning **React Native**, improving **React & Next.js**  
-- 🎓 Student at **FATEC**  
-- 📫 Reach me at **gustavohirotaalves@gmail.com**
+- 💻 Passionate developer focused on building performant web and mobile applications
+
+- 🌱 Currently deepening my skills in React Native, React, and Next.js to deliver seamless user experiences
+
+- 🔐 Strong interest in cybersecurity and writing clean, secure code
+
+- 🎯 Dedicated to continuous learning, problem-solving, and collaborating on innovative projects
+
+- 👨‍💼 Veteran freelancer with hands-on experience delivering quality solutions for diverse clients
+
+- 📫 Feel free to reach out at gustavohirotaalves@gmail.com
 
 </td>
 <td valign="top" width="40%">
