@@ -1,14 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gustavo Hirota</h1>
 <h3 align="center">💻 Junior Fullstack Developer | 🎓 Student at FATEC</h3>
 
-<p align="center">
-  <a href="https://github.com/gustavohirota">
-    <img src="https://komarev.com/ghpvc/?username=dethstruck&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-  </a>
-</p>
-
----
-
 <table>
 <tr>
 <td valign="top" width="60%">
