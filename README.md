@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://github.com/gustavohirota">
-    <img src="https://komarev.com/ghpvc/?username=gustavohirota&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+    <img src="https://komarev.com/ghpvc/?username=dethstruck&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
   </a>
 </p>
 
@@ -65,13 +65,13 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gustavohirota&show_icons=true&theme=tokyonight" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavohirota&layout=compact&theme=tokyonight" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dethstruck&show_icons=true&theme=tokyonight" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dethstruck&layout=compact&theme=tokyonight" height="165" />
 </p>
 
 ---
 
 ### 🚀 Streak & Activity
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gustavohirota&theme=tokyonight" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dethstruck&theme=tokyonight" height="165" />
 </p>
