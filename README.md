@@ -7,13 +7,17 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="https://github.com/dethstruck/dethstruck/blob/main/animation.gif" alt="animated rock gif" width="300"/>
+</p>
+
 ---
 
 ### 🌟 About Me
-- 🎸 Rock & Metal enthusiast (Pantera, Slipknot, Metallica, Megadeth)
-- 🌱 Currently learning **React Native**, improving **React & Next.js**
-- 🎓 Student at **FATEC**
-- 📫 Reach me at **gustavohirotaalves@gmail.com**
+- 🎸 Rock & Metal enthusiast (Pantera, Slipknot, Metallica, Megadeth)  
+- 🌱 Currently learning **React Native**, improving **React & Next.js**  
+- 🎓 Student at **FATEC**  
+- 📫 Reach me at **gustavohirotaalves@gmail.com**  
 
 ---
 
@@ -38,13 +42,13 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gustavohirota&show_icons=true&theme=tokyonight" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavohirota&layout=compact&theme=tokyonight" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dethstruck&show_icons=true&theme=tokyonight" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dethstruck&layout=compact&theme=tokyonight" height="165" />
 </p>
 
 ---
 
 ### 🚀 Streak & Activity
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gustavohirota&theme=tokyonight" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dethstruck&theme=tokyonight" height="165" />
 </p>
