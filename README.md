@@ -22,8 +22,22 @@
 </td>
 <td valign="top" width="40%">
   
-<img src="https://github.com/dethstruck/dethstruck/blob/main/animation.gif" alt="animated rock gif" width="300"/>
+<img src="https://github.com/dethstruck/dethstruck/blob/main/animation.gif" alt="animated gif" width="300"/>
 
+</td>
+</tr>
+</table>
+
+---
+
+<table>
+<tr>
+<td valign="middle" width="10%">
+  <img src="https://github.com/dethstruck/dethstruck/blob/main/logo_imaginarte.png" alt="Imaginarte logo" width="50" />
+</td>
+<td valign="middle" width="90%" style="padding-left: 10px;">
+  <h3>🚀 Latest Project: <a href="https://universoimaginarte.com.br" target="_blank">ImaginArte</a></h3>
+  <p>Fully functional e-commerce MVP built with React, Next.js, Firebase and Tailwind CSS.</p>
 </td>
 </tr>
 </table>
@@ -51,13 +65,13 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dethstruck&show_icons=true&theme=tokyonight" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dethstruck&layout=compact&theme=tokyonight" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gustavohirota&show_icons=true&theme=tokyonight" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavohirota&layout=compact&theme=tokyonight" height="165" />
 </p>
 
 ---
 
 ### 🚀 Streak & Activity
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dethstruck&theme=tokyonight" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gustavohirota&theme=tokyonight" height="165" />
 </p>
