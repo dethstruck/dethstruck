@@ -7,17 +7,26 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://github.com/dethstruck/dethstruck/blob/main/animation.gif" alt="animated rock gif" width="300"/>
-</p>
-
 ---
+
+<table>
+<tr>
+<td valign="top" width="60%">
 
 ### 🌟 About Me
 - 🎸 Rock & Metal enthusiast (Pantera, Slipknot, Metallica, Megadeth)  
 - 🌱 Currently learning **React Native**, improving **React & Next.js**  
 - 🎓 Student at **FATEC**  
-- 📫 Reach me at **gustavohirotaalves@gmail.com**  
+- 📫 Reach me at **gustavohirotaalves@gmail.com**
+
+</td>
+<td valign="top" width="40%">
+  
+<img src="https://github.com/dethstruck/dethstruck/blob/main/animation.gif" alt="animated rock gif" width="300"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
