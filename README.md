@@ -43,6 +43,20 @@
 
 ---
 
+<table>
+<tr>
+<td valign="middle" width="10%">
+  <img src="https://github.com/dethstruck/dethstruck/blob/main/logo_portfolio.png" alt="Portfolio logo" width="50" />
+</td>
+<td valign="middle" width="90%" style="padding-left: 10px;">
+  <h3>🌐 My Portfolio: <a href="https://portfolio-seven-peach-15.vercel.app" target="_blank">Click here to view</a></h3>
+  <p>Explore my personal portfolio showcasing my projects, skills, and development journey.</p>
+</td>
+</tr>
+</table>
+
+---
+
 ### 🤝 Connect with Me
 <p align="left">
   <a href="https://www.linkedin.com/in/gustavohirota" target="_blank">
