@@ -16,6 +16,8 @@
 
 - 👨‍💼 Veteran freelancer with hands-on experience delivering quality solutions for diverse clients
 
+- 🌐 Check out my portfolio: [Hirota's Portfolio](https://portfolio-seven-peach-15.vercel.app)
+
 - 📫 Feel free to reach out at gustavohirotaalves@gmail.com
 
 </td>
@@ -37,20 +39,6 @@
 <td valign="middle" width="90%" style="padding-left: 10px;">
   <h3>🚀 Latest Project: <a href="https://universoimaginarte.com.br" target="_blank">ImaginArte</a></h3>
   <p>Fully functional e-commerce MVP built with React, Next.js, Firebase and Tailwind CSS.</p>
-</td>
-</tr>
-</table>
-
----
-
-<table>
-<tr>
-<td valign="middle" width="10%">
-  <img src="https://github.com/dethstruck/dethstruck/blob/main/logo_portfolio.png" alt="Portfolio logo" width="50" />
-</td>
-<td valign="middle" width="90%" style="padding-left: 10px;">
-  <h3>🌐 My Portfolio: <a href="https://portfolio-seven-peach-15.vercel.app" target="_blank">Click here to view</a></h3>
-  <p>Explore my personal portfolio showcasing my projects, skills, and development journey.</p>
 </td>
 </tr>
 </table>
